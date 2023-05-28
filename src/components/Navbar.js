@@ -1,4 +1,4 @@
-import { pageLinks, socialLink } from '../data';
+import { socialLink } from '../data';
 import logo from '../images/logo.svg';
 import PageLink from './PageLink';
 
